@@ -11,7 +11,7 @@ const student = {
 };
 
 console.table(student);
-
+// const intKor = []; // Array()
 const intKor = [10, 30, 50, 80, 30, 140];
 console.table(intKor);
 
